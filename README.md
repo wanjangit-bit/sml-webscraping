@@ -8,3 +8,7 @@ Objective url: https://rfidlab.org/alec-submissionform/
 
 Objective: collect full retailer list
 
+Notes:
+.js 前端本地過濾
+.php 後端服務器拉取數據
+本次task的retailer list屬於不敏感，少改動的數據，更適合作爲常量放在前端直接讀取處理
