@@ -9,7 +9,11 @@ Objective url: https://rfidlab.org/alec-submissionform/
 Objective: collect full retailer list
 
 
+<img width="729" height="430" alt="image" src="https://github.com/user-attachments/assets/a236a24d-a10f-41e7-8c89-f7ac1697a8fd" />
 
+
+
+<img width="1913" height="968" alt="image" src="https://github.com/user-attachments/assets/29063f60-2fa0-4018-b0ce-0fec3e109032" />
 
 
 
